@@ -1,2 +1,3 @@
-# The-recipe-API
-Recipe API mande by Django REST Framework
+# Django Docker boilerplate
+
+Django docker boilerplate with flake8 linting
